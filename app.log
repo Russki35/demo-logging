@@ -1,0 +1,52 @@
+12:29:00.195 [main] INFO  dev.App -
+				Bonjour Slf4J !
+12:29:00.198 [main] INFO  dev.App -
+				Implémentation Logback
+12:29:00.198 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:29:06.902 [main] INFO  dev.App -
+				Bonjour Slf4J !
+12:29:06.904 [main] INFO  dev.App -
+				Implémentation Logback
+12:29:06.904 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:29:21.793 [main] INFO  dev.App -
+				Bonjour Slf4J !
+12:29:21.796 [main] INFO  dev.App -
+				Implémentation Logback
+12:29:21.797 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:32:11.027 [main] INFO  dev.App -
+				Bonjour Slf4J !
+12:32:11.030 [main] INFO  dev.App -
+				Implémentation Logback
+12:32:11.031 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:32:19.566 [main] INFO  dev.App -
+				Bonjour Slf4J !
+12:32:19.568 [main] INFO  dev.App -
+				Implémentation Logback
+12:32:19.568 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:33:57.157 [main] INFO  dev.App -
+				Bonjour Slf4J !
+12:33:57.159 [main] INFO  dev.App -
+				Implémentation Logback
+12:33:57.160 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:35:43.187 [main] INFO  dev.console -
+				Bonjour Slf4J !
+12:35:43.189 [main] INFO  dev.console -
+				Implémentation Logback
+12:35:43.190 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:37:11.504 [main] INFO  dev.console -
+				Bonjour Slf4J !
+12:37:11.506 [main] INFO  dev.console -
+				Implémentation Logback
+12:37:37.010 [main] INFO  dev.console -
+				Bonjour Slf4J !
+12:37:37.012 [main] INFO  dev.console -
+				Implémentation Logback
+12:37:37.013 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1

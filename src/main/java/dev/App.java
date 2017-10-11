@@ -15,7 +15,7 @@ import dev.service.AppService;
  */
 public class App {
 
-	private static final Logger LOG = LoggerFactory.getLogger(App.class);
+	private static final Logger LOG = LoggerFactory.getLogger("dev.console");
 	
 	public static void main(String[] args) {
 		
