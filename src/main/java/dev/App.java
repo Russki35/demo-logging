@@ -16,5 +16,6 @@ public class App {
 	public static void main(String[] args) {
 	LOG.info("Bonjour Slf4J !");
 	LOG.info("Implémentation Logback");
+	
 	}
 }
